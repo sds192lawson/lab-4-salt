@@ -6,7 +6,7 @@ author:
   affiliation: Smith College
 - name: Lucy Watts
   affiliation: Smith College
-- name: Author Three
+- name: Natalie Lau
   affiliation: Smith College
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
 output: 
